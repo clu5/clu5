@@ -1,4 +1,4 @@
-- [website](https://www.mit.edu/~luchar)
-- [scholar](https://scholar.google.com/citations?user=w3DSGTIAAAAJ)
-- [twitter](https://twitter.com/lu_charl)
-- [linkedin](https://www.linkedin.com/in/charlie-lu)
+- [Website](https://www.mit.edu/~luchar)
+- [Google Scholar](https://scholar.google.com/citations?user=w3DSGTIAAAAJ)
+- [Twitter](https://twitter.com/lu_charl)
+- [Linkedin](https://www.linkedin.com/in/charlie-lu)
